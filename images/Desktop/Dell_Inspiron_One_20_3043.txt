@@ -1,0 +1,35 @@
+Price
+TK 39,500
+Detail Specification
+Brand:	Dell
+Model:	Dell Inspiron One 20 (3043)
+Processor:	Intel PQC N3530
+Processor clock speed:	2.58GHz
+CPU cache:	2 MB
+Chipset:	Intel HM81
+Monitor:	19.5" Touch
+RAM:	4GB
+RAM type:	DDR3 1600MHz
+HDD:	500GB HDD
+HDD type:	SATA 5400rpm
+Graphics:	Intel HD
+Graphics memory:	GB
+Optical device:	No
+Audio chipset:	Realtek
+Speaker:	Yes
+Keyboard:	Dell USB Keyboard
+Mouse:	Dell USB Mouse
+Networking:	LAN, WiFi, Bluetooth
+Display port:	HDMI IN
+Audio port:	Single Port Stereo
+USB port:	3 x USB 2.0
+Operating system:	Free DOS
+Warranty:	1 Year
+Others:	Without Battery
+Short Description	
+Dell Inspiron One 20 (3043) AIO PQC N3530 (2.58GHz,4GB,500GB) Free DOS, 19.5 Inch Touch All In One PC Without Battery
+
+Long Description	
+Model - Dell Inspiron One 20 (3043), Processor - AIO PQC N3530, Processor Clock Speed - 2.58GHz, CPU Cache - 2MB, Chipset - Intel HM81, Monitor - 19.5" Touch Monitor, RAM - 4GB, RAM Type - DDR3 1600MHz, HDD - 500GB HDD, HDD Type - SATA 5400rpm, Graphics Chipset - Intel HD, Graphics Memory - Shared, Optical Device - No, Audio Chipset - Realtek, Speaker - Yes, Keyboard - Dell USB Keyboard, Mouse - Dell USB Mouse, Networking - LAN, WiFi, Bluetooth, Display Port - HDMI IN, Audio Port - Single Port Stereo, USB Port - 3 x USB 2.0, Operating System - Free DOS, Others - Without Battery, Specialty - Touch AIO, Part No - FOX15058102, Warranty - 1 year
+
+Product ID	69.013.31

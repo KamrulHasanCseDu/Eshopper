@@ -1,0 +1,34 @@
+Price
+TK 49,000
+Detail Specification
+Brand:	Dell
+Model:	Dell OptiPlex 7020MT
+Processor:	4th Gen. Core i7 4790
+Processor clock speed:	3.60GHz
+CPU cache:	8 MB
+Chipset:	Intel Q87
+Monitor:	No
+RAM:	4 GB
+RAM type:	DDR3 1600MHz
+HDD:	500 GB
+HDD type:	SATA 7200rpm
+Graphics:	Intel HD 4600
+Graphics memory:	GB
+Optical device:	DVD/RW
+Audio chipset:	Realtek
+Speaker:	Yes
+Keyboard:	Dell Keyboard
+Mouse:	Dell Mouse
+Networking:	LAN
+Display port:	VGA, Display Port 1.2
+Audio port:	Dual Audion In/Out (Front & Back)
+USB port:	6 x USB 2.0, 4 x USB 3.0
+Operating system:	Free DOS
+Warranty:	3 Year
+Short Description	
+Dell OptiPlex 7020MT Core i7 4th Gen. 4790 (3.60GHz,4GB,500GB) Brand PC
+
+Long Description	
+Model - Dell OptiPlex 7020MT, Processor - 4th Gen. Intel Core i7 4790, Processor Clock Speed - 3.60GHz, CPU Cache - 8MB, Chipset - Intel Q87, Monitor - No, RAM - 4GB, RAM Type - DDR3 1600MHz, HDD - 500GB, HDD Type - SATA 7200RPM, SSD - No, Graphics Chipset - Intel HD 4600, Graphics Memory - Shared, Optical Device - DVD-RW, Audio Chipset - Realtek, Speaker - Yes, Keyboard - Dell USB Keyboard, Mouse - Dell USB Mouse, Networking - LAN, Display Port - VGA, Display Port 1.2, Audio Port - Dual Audion In/Out (Front & Back), USB Port - 6 x USB 2.0, 4 x USB 3.0, Operating System - Free Dos, Warranty - 3 year, Others - No, Specialty - 4th. Gen Professional i7 Desktop, Part No - 7020MT-i7-4790
+
+Product ID	69.013.25

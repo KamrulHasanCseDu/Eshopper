@@ -1,0 +1,33 @@
+Price
+TK 38,000
+Detail Specification
+Brand:	Dell
+Model:	Dell OptiPlex 3020MT
+Processor:	4th Gen. Intel Core i5 4590
+Processor clock speed:	3.30GHz
+CPU cache:	6 MB
+Chipset:	Intel H81
+Monitor:	No
+RAM:	4GB
+RAM type:	DDR3 1600MHz
+HDD:	500GB
+HDD type:	SATA 7200RPM
+Graphics:	Intel HD 4600
+Optical device:	DVD/RW
+Audio chipset:	Realtek ALC3220
+Speaker:	Yes
+Keyboard:	Dell USB Keyboard
+Mouse:	Dell USB Mouse
+Networking:	LAN
+Display port:	VGA
+Audio port:	Dual Audio In/Out (Front & Back)
+USB port:	6 x USB2.0, 2 x USB3.0
+Operating system:	Free Dos
+Warranty:	3 Year
+Short Description	
+Dell OptiPlex 3020MT 4th Gen. Intel Core i5 4590 (3.30GHz,4GB,500GB) Brand PC
+
+Long Description	
+Model - Dell OptiPlex 3020MT, Processor - 4th Gen. Intel Core i5 4590, Processor Clock Speed - 3.30GHz, CPU Cache - 6MB, Chipset - Intel H81, Monitor - No, RAM - 4GB, RAM Type - DDR3 1600MHz, HDD - 500GB, HDD Type - SATA 7200RPM, SSD - No, Graphics Chipset - Intel HD 4600, Graphics Memory - Shared, Optical Device - DVD-RW, Audio Chipset - Realtek ALC3220, Speaker - Yes, Keyboard - Dell USB Keyboard, Mouse - Dell USB Mouse, Networking - LAN, Display Port - VGA, Audio Port - Dual Audio In/Out (Front & Back), USB Port - 6 x USB2.0, 2 x USB3.0, Operating System - Free Dos, Others - RAM Slots- 2, Max. RAM- 16GB, Specialty - 3.30GHz 4th Gen. Intel Core i5 Processor, 6MB Cache, Part No - 3020MT-i5-4590, Warranty - 3 year
+
+Product ID	69.013.29

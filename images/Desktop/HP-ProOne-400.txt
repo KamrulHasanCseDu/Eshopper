@@ -1,0 +1,35 @@
+Price
+TK 46,500
+Detail Specification
+Brand:	HP
+Model:	HP ProOne 400
+Processor:	4th Gen. Intel Core i3 4160T
+Processor clock speed:	3.10GHz
+CPU cache:	3 MB
+Chipset:	Intel H81
+Monitor:	19.5"
+RAM:	4GB
+RAM type:	DDR3 1600MHz
+HDD:	500 GB
+HDD type:	SATA 7200RPM
+Graphics:	Intel HD 4400
+Graphics memory:	GB
+Optical device:	DVD/RW
+Audio chipset:	Realtek ALC 3228
+Speaker:	Yes
+Keyboard:	USB Keyboard
+Mouse:	USB Mouse
+Networking:	LAN, WiFi
+Display port:	VGA
+Audio port:	Single Port Stereo
+USB port:	4 x USB 2.0
+Operating system:	Free Dos
+Warranty:	1 Year
+Others:	Web Cam, 1 x RJ-45 Gigabit Ethertnet network connector, 1 x ) RS-232 serial port, 3.5mm stereo line out jack
+Short Description	
+HP ProOne 400 Intel 4th Gen Core i3 4160T (3.1GHz, 4GB, 500GB) 19.5 Inch All-in-one PC
+
+Long Description	
+Model - HP ProOne 400, Processor - 4th. Gen Intel Core i3 4160T, Processor Clock Speed - 3.10GHz, CPU Cache - 3MB, Chipset - Intel H81, Monitor - 19.5" LED Display, RAM - 4GB, RAM Type - DDR3 1600MHz, HDD - 500GB, HDD Type - SATA 7200RPM, SSD - No, Graphics Chipset - Intel HD 4400, Graphics Memory - Shared, Optical Device - DVD RW, Audio Chipset - Realtek ALC 3228, Speaker - Yes, Keyboard - USB Keyboard, Mouse - USB Mouse, Networking - LAN, WiFi, Display Port - VGA, Audio Port - Single Port Stereo, USB Port - 4 x USB 2.0, Operating System - Free DOS, Others - Web Cam, 1 x RJ-45 Gigabit Ethertnet network connector, 1 x ) RS-232 serial port, 3.5mm stereo line out jack, Specialty - 19.5" Core i5 AIO PC, Part No - ProOne-400-i5, Warranty - 1 year
+
+Product ID	69.020.93

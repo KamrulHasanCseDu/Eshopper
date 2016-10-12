@@ -1,0 +1,33 @@
+Price
+TK 31,500
+Detail Specification
+Brand:	DELL
+Model:	DELL OPTIPLEX 3040MT
+Processor:	6th Gen. Intel Core i3 6100
+Processor clock speed:	3.70GHz
+CPU cache:	3 MB
+Chipset:	Intel H110
+Monitor:	No
+RAM:	4GB
+RAM type:	DDR3 1600MHz
+HDD:	500GB HDD
+HDD type:	SATA 7200rpm
+Graphics:	Intel HD 530
+Optical device:	DVD RW
+Audio chipset:	Realtek
+Keyboard:	Dell USB Keyboard
+Mouse:	Dell USB Mouse
+Networking:	LAN
+Display port:	HDMI
+Audio port:	Universal Audio Jack / Line Out
+USB port:	6 x USB3.0, 5 x USB2.0
+Operating system:	Free Dos
+Warranty:	3 Year
+Others:	1 x RJ-45 LAN, 1 x Display Port 1.2,
+Short Description	
+DELL OPTIPLEX 3040MT 6th Gen. Core i3 6100 (3.70GHz, INTEL H110, 4GB, 500GB) Brand PC
+
+Long Description	
+Model - DELL OPTIPLEX 3040MT, Processor - 6th Gen. Intel Core i3 6100, Processor Clock Speed - 3.70GHz, CPU Cache - 3MB, Chipset - Intel H110, Monitor - No, RAM - 4GB, RAM Type - DDR3 1600MHz, HDD - 500GB, HDD Type - SATA 7200rpm, SSD - No, Graphics Chipset - Intel HD 530, Graphics Memory - Shared, Optical Device - DVD RW, Audio Chipset - Realtek, Speaker - No, Keyboard - Dell USB Keyboard, Mouse - Dell USB Mouse, Networking - LAN, Display Port - HDMI, Audio Port - Universal Audio Jack / Line Out, USB Port - 6 x USB3.0, 5 x USB2.0, Operating System - Free Dos, Others - 1 x RJ-45 LAN, 1 x Display Port 1.2,, Warranty - 3 year
+
+Product ID	69.013.35
